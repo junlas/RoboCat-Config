@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<items>
+	<item id="1" need="10001,10002,10003,10004,10005" result="10034" isCat="1" needChip="10" miaoCoinUnitLack="100"/>
+	<item id="1" need="10051,10052,10053,10054,10055" result="20033" isCat="1" needChip="50" miaoCoinUnitLack="200"/>
+	<item id="1" need="20056,20057,20058,20059,20060" result="20072" isCat="1" needChip="70" miaoCoinUnitLack="300"/>
+	<item id="1" need="20096,20097,20098,20099,20100" result="30020" isCat="1" needChip="100" miaoCoinUnitLack="500"/>
+</items>

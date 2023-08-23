@@ -1,0 +1,13 @@
+<map>
+	<item type="0" url="BulletConfigDefine.xml" />
+	<item type="1" url="SkillConfigDefine.xml" />
+	<item type="2" url="RoleConfigDefine.xml" />
+	<item type="3" url="BossPosConfigDefine.xml" />
+	<item type="4" url="WorldMapConfigDefine.xml" />
+	<item type="5" url="WorldMapPointConfigDefine.xml" />
+	<item type="6" url="BoatConfigDefine.xml" />
+	<item type="7" url="BoatSkillConfigDefine.xml" />
+	<item type="8" url="LevelUpConfigDefine.xml" />
+	<item type="9" url="ExploreConfigDefine.xml" />
+	<item type="10" url="CompositeConfigDefine.xml" />
+</map>

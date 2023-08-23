@@ -1,0 +1,9 @@
+<?php defined ( 'SYSPATH' ) or die ( 'No direct access allowed.' );
+$config = array (
+  'id' => 50080,
+  'level' => 80,
+  'value' => 9900,
+  'coin' => 7421,
+  'old' => 134,
+  'stone' => 1340,
+);
